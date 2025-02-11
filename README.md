@@ -23,7 +23,9 @@ Steps:
 Example Usage:
 
   console.log(reverseString("hello")); // Output: "olleh" 
+  
   console.log(secondLargest([10, 20, 4, 45, 99])); // Output: 45
+  
   console.log(isPalindrome("abcba")); // Output: true
 
 Explanation
