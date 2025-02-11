@@ -2,9 +2,11 @@ Algorithm Challenge
 
 This JavaScript program solves the following algorithm challenges:
 
-Reverse a string.
-Find the second-largest number in an array.
-Check if a given string is a palindrome.
+  Reverse a string.
+
+  Find the second-largest number in an array.
+
+  Check if a given string is a palindrome.
 
 
 How to Run the Program:
